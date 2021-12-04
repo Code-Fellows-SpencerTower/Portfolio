@@ -17,63 +17,66 @@
       "images": [
         "images/portfolio/tipplr/tipplr_img.png"
       ],
-      "url": "",
+      "url": "https://github.com/Tipplr/tipplr-app",
       "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
         {
           "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "BusMall",
+      "startDate": "2021",
+      "description": "Personal project for study subject. I was responsible for testing busmall application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/busmall/busmall_img.png"
       ],
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookies",
+      "startDate": "2021",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/salmon_cookies/salmon_cookies_img1.png",
+        "images/portfolio/salmon_cookies/salmon_cookies_img2.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         }
       ]
     }
@@ -84,7 +87,7 @@
       "title": "Front-End Developer",
       "years": "10.2019 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "Javascript ES6"
       ],
       "technologies": [
         "REST API",
