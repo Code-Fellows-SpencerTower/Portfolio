@@ -16,7 +16,7 @@
         "class": "fab fa-instagram"
       }
     ],
-    "image": "./images/profilePicture.jpg"
+    "image": "profilePicture.png"
   },
   "skills": {
     "icons": [
