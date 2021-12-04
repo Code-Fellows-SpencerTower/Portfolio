@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Spencer Tower's Software Development Portfolio
 
-Make it your own! 
+url: spencer-tower-portfolio.netlify.app
