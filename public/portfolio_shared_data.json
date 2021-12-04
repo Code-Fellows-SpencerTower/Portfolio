@@ -7,13 +7,13 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/SpencerTower",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/spencertower",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "profilePicture.png"
