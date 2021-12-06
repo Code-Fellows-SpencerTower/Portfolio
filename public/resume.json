@@ -13,7 +13,7 @@
     {
       "title": "Tipplr",
       "startDate": "2021",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "description": "Tipplr allows users to track thier personal inventory of cocktail ingredients and create their own recipes. The app suggests new cocktail recipes that users are one ingredient away from making based on their inventory.",
       "images": [
         "images/portfolio/tipplr/tipplr_img.png"
       ],
@@ -36,11 +36,11 @@
     {
       "title": "BusMall",
       "startDate": "2021",
-      "description": "Personal project for study subject. I was responsible for testing busmall application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "CodeFellows Code 201 project.",
       "images": [
         "images/portfolio/busmall/busmall_img.png"
       ],
-      "url": "https://github.com",
+      "url": "https://spencertower.github.io/busmall/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
@@ -59,12 +59,12 @@
     {
       "title": "Salmon Cookies",
       "startDate": "2021",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "description": "CodeFellows Code 201 project.",
       "images": [
         "images/portfolio/salmon_cookies/salmon_cookies_img1.png",
         "images/portfolio/salmon_cookies/salmon_cookies_img2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://spencertower.github.io/salmon-cookies/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
