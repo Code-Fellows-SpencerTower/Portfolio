@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
-import githubIcon from "@iconify/icons-logos/github-octocat";
+import bootstrapIcon from "@iconify/icons-logos/bootstrap";
 
 class About extends Component {
   render() {
@@ -39,7 +39,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={githubIcon}
+                    icon={bootstrapIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
