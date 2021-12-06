@@ -57,6 +57,7 @@ class Experience extends Component {
               {work.company}
             </h4>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
+            <div style={{ textAlign: "left", marginTop: "15px" }}>{work.description}</div>
           </VerticalTimelineElement>
         );
       });
